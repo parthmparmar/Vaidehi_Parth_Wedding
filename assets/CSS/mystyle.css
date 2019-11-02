@@ -1,5 +1,16 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color: #838281;
+    background-color: #F9F6F4;
+}
+
 .site-logo{
     font-family: 'Dancing Script', cursive;
+}
+
+.names{
+    font-family: 'Dancing Script', cursive; 
+    color: #838281;
 }
 
 header{
@@ -14,7 +25,14 @@ header{
     padding: 30px;
 }
 
-nav{
-    color: #838281;
-    background-color: #F9F6F4;  
+.navbar-toggler{
+    border: white;
+}
+
+a{
+    color: grey;
+}
+
+.navbar-toggler{
+    background-color: white
 }
